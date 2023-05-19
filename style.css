@@ -12,8 +12,8 @@ body {
 
 .my-video {
     position: absolute;
-    top: 100px;
-    left: 100px;
+    top: 200px;
+    right: 100px;
 }
 
 #countdown {
