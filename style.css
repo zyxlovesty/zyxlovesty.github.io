@@ -9,6 +9,13 @@ body {
     background-repeat: no-repeat; /* Do not repeat the image */
     background-position: center; /* Center the image */
 }
+
+.my-video {
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+
 #countdown {
     position: absolute;
     top: 50px; /* Adjust as needed */
